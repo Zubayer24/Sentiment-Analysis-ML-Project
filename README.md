@@ -1,4 +1,4 @@
-# Sentiment Analysis on Amazon Product Reviews
+# 🔹Sentiment Analysis on Amazon Product Reviews
 
 ## 1. Project Title
 **Sentiment Analysis on Amazon Product Reviews Using Machine Learning**
