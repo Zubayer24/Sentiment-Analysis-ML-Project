@@ -15,8 +15,8 @@ Understanding customer sentiment is crucial for e-commerce businesses to improve
 
 ## 4. Key Results (Visuals / Numbers)
 
-**XGBoost Model Performance:**  
-- Accuracy: 0.7626  
+**Multinomial Naive Bayes Model Performance:**  
+- Accuracy: 0.88
 
 **Classification Report:**
 
