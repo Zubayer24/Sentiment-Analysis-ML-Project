@@ -6,7 +6,7 @@
 ## 2. Problem Summary
 Understanding customer sentiment is crucial for e-commerce businesses to improve products, services, and overall customer satisfaction. By automatically classifying Amazon product reviews as positive, neutral, or negative, companies can make data-driven decisions, detect potential product issues early, and optimize marketing strategies. This project demonstrates how machine learning can be applied to analyze text reviews efficiently and accurately.
 
-## 3. What You Did (Your Approach)
+## 3. What I Did 
 - **Data Cleaning:** Removed duplicates, missing values, and irrelevant characters.  
 - **Text Preprocessing:** Lowercasing, stopword removal, tokenization, and lemmatization.  
 - **Feature Engineering:** Applied TF-IDF vectorization to convert text into numerical features.  
@@ -30,7 +30,7 @@ Understanding customer sentiment is crucial for e-commerce businesses to improve
 - ROC Curve  
 - Accuracy / Precision / Recall Table  
 
-*Visuals can be embedded here for a more professional look.*
+
 
 ## 5. Live Notebook Viewer Link
 - View Notebook on **NBViewer** → [NBViewer Link](https://nbviewer.org/github/Zubayer24/Sentiment-Analysis-ML-Project/blob/main/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews.ipynb)  
