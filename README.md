@@ -39,8 +39,3 @@ Understanding customer sentiment is crucial for e-commerce businesses to improve
 - Access the full project code → [GitHub Repository](https://github.com/Zubayer24/Sentiment-Analysis-ML-Project)
 
 ---
-
-## 7. How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Zubayer24/Sentiment-Analysis-ML-Project.git
