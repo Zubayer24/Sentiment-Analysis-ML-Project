@@ -31,7 +31,7 @@ def preprocess_text(text: str) -> str:
 
 def lemmatize_text(text: str) -> str:
     """Lemmatize words."""
-    return " ".join(lemmatizer.lematize(w) for w in text.split())
+    return " ".join(lemmatizer.lemmatize(w) for w in text.split())
 
 def full_pipeline(text: str) -> str:
     """Apply full preprocessing pipeline"""
