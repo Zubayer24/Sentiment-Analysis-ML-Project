@@ -3,7 +3,7 @@
 ## 1. Project Title
 **Sentiment Analysis on Amazon Product Reviews Using Machine Learning**
 
-[Flask Version: Deployed in Onrender]([https://fake-news-checker-ai-with-flask.onrender.com/](https://sentiment-analysis-on-amazon-product-mvcu.onrender.com)
+[Flask Version: Deployed in Onrender](https://sentiment-analysis-on-amazon-product-mvcu.onrender.com)
 
 ## 2. Problem Summary
 Understanding customer sentiment is crucial for e-commerce businesses to improve products, services, and overall customer satisfaction. By automatically classifying Amazon product reviews as positive, neutral, or negative, companies can make data-driven decisions, detect potential product issues early, and optimize marketing strategies. This project demonstrates how machine learning can be applied to analyze text reviews efficiently and accurately.
