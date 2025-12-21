@@ -6,8 +6,17 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
-nltk.download("stopwords", quiet=True)
-nltk.download("wordnet",quiet=True)
+
+
+import os
+
+if not os.path.exists("/tmp/corpora/stopwords"):
+    nltk.download("stopwords", download_dir="/tmp")
+if not os.path.exists("/tmp/corpora/wordnet"):
+    nltk.download("wordnet", download_dir="/tmp")
+
+nltk.data.path.append("/tmp")
+
 
 app=Flask(__name__)
 
@@ -88,4 +97,4 @@ def api_predict():
 
 # Run app locally (remove debug=True for deployment)
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
